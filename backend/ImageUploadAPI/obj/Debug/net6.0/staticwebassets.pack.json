@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Staj\\Desktop\\AlgoDeneme\\ImageUploadAPI\\wwwroot\\templates\\1-1.cbor",
+      "PackagePath": "staticwebassets\\templates\\1-1.cbor"
+    },
+    {
+      "Id": "C:\\Users\\Staj\\Desktop\\AlgoDeneme\\ImageUploadAPI\\wwwroot\\templates\\1-10.cbor",
+      "PackagePath": "staticwebassets\\templates\\1-10.cbor"
+    },
+    {
+      "Id": "C:\\Users\\Staj\\Desktop\\AlgoDeneme\\ImageUploadAPI\\wwwroot\\templates\\1-2.cbor",
+      "PackagePath": "staticwebassets\\templates\\1-2.cbor"
+    },
+    {
+      "Id": "C:\\Users\\Staj\\Desktop\\AlgoDeneme\\ImageUploadAPI\\wwwroot\\templates\\1-3.cbor",
+      "PackagePath": "staticwebassets\\templates\\1-3.cbor"
+    },
+    {
+      "Id": "C:\\Users\\Staj\\Desktop\\AlgoDeneme\\ImageUploadAPI\\wwwroot\\templates\\1-4.cbor",
+      "PackagePath": "staticwebassets\\templates\\1-4.cbor"
+    },
+    {
+      "Id": "C:\\Users\\Staj\\Desktop\\AlgoDeneme\\ImageUploadAPI\\wwwroot\\templates\\1-5.cbor",
+      "PackagePath": "staticwebassets\\templates\\1-5.cbor"
+    },
+    {
+      "Id": "C:\\Users\\Staj\\Desktop\\AlgoDeneme\\ImageUploadAPI\\wwwroot\\templates\\1-6.cbor",
+      "PackagePath": "staticwebassets\\templates\\1-6.cbor"
+    },
+    {
+      "Id": "C:\\Users\\Staj\\Desktop\\AlgoDeneme\\ImageUploadAPI\\wwwroot\\templates\\1-7.cbor",
+      "PackagePath": "staticwebassets\\templates\\1-7.cbor"
+    },
+    {
+      "Id": "C:\\Users\\Staj\\Desktop\\AlgoDeneme\\ImageUploadAPI\\wwwroot\\templates\\1-8.cbor",
+      "PackagePath": "staticwebassets\\templates\\1-8.cbor"
+    },
+    {
+      "Id": "C:\\Users\\Staj\\Desktop\\AlgoDeneme\\ImageUploadAPI\\wwwroot\\templates\\1-9.cbor",
+      "PackagePath": "staticwebassets\\templates\\1-9.cbor"
+    },
+    {
+      "Id": "C:\\Users\\Staj\\Desktop\\AlgoDeneme\\ImageUploadAPI\\wwwroot\\templates\\2-0.cbor",
+      "PackagePath": "staticwebassets\\templates\\2-0.cbor"
+    },
+    {
+      "Id": "C:\\Users\\Staj\\Desktop\\AlgoDeneme\\ImageUploadAPI\\wwwroot\\templates\\2-1.cbor",
+      "PackagePath": "staticwebassets\\templates\\2-1.cbor"
+    },
+    {
+      "Id": "C:\\Users\\Staj\\Desktop\\AlgoDeneme\\ImageUploadAPI\\wwwroot\\templates\\2-2.cbor",
+      "PackagePath": "staticwebassets\\templates\\2-2.cbor"
+    },
+    {
+      "Id": "C:\\Users\\Staj\\Desktop\\AlgoDeneme\\ImageUploadAPI\\wwwroot\\templates\\2-3.cbor",
+      "PackagePath": "staticwebassets\\templates\\2-3.cbor"
+    },
+    {
+      "Id": "C:\\Users\\Staj\\Desktop\\AlgoDeneme\\ImageUploadAPI\\wwwroot\\templates\\2-4.cbor",
+      "PackagePath": "staticwebassets\\templates\\2-4.cbor"
+    },
+    {
+      "Id": "C:\\Users\\Staj\\Desktop\\AlgoDeneme\\ImageUploadAPI\\wwwroot\\templates\\2-5.cbor",
+      "PackagePath": "staticwebassets\\templates\\2-5.cbor"
+    },
+    {
+      "Id": "C:\\Users\\Staj\\Desktop\\AlgoDeneme\\ImageUploadAPI\\wwwroot\\templates\\2-6.cbor",
+      "PackagePath": "staticwebassets\\templates\\2-6.cbor"
+    },
+    {
+      "Id": "C:\\Users\\Staj\\Desktop\\AlgoDeneme\\ImageUploadAPI\\wwwroot\\templates\\2-7.cbor",
+      "PackagePath": "staticwebassets\\templates\\2-7.cbor"
+    },
+    {
+      "Id": "C:\\Users\\Staj\\Desktop\\AlgoDeneme\\ImageUploadAPI\\wwwroot\\templates\\2-8.cbor",
+      "PackagePath": "staticwebassets\\templates\\2-8.cbor"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ImageUploadAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ImageUploadAPI.props",
+      "PackagePath": "build\\ImageUploadAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ImageUploadAPI.props",
+      "PackagePath": "buildMultiTargeting\\ImageUploadAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ImageUploadAPI.props",
+      "PackagePath": "buildTransitive\\ImageUploadAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
